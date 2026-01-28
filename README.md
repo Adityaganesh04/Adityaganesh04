@@ -3,7 +3,7 @@
 🚀 **Backend Systems & AI Engineer** 
 
 I am a software engineer solving complex problems in **Distributed Systems** and **Artificial Intelligence**. I build high-throughput engines in **Go** and train models in **PyTorch**.<br>
-📫 **How to reach me:** [Adityaganesh04@gmail.com](mailto:Adityaganesh04@gmail.com)<br> 📂 **Check out my Resume:** [Here](https://drive.google.com/file/d/1IK76xNh9nqCik2UYw-JlazwWvwEq_vt_/view?usp=sharing)
+📫 **How to reach me:** [adityaganesh04@gmail.com](mailto:adityaganesh04@gmail.com)<br> 📂 **Check out my Resume:** [Here](https://drive.google.com/file/d/1IK76xNh9nqCik2UYw-JlazwWvwEq_vt_/view?usp=sharing)
 
 
 ## 🌐 Socials:
